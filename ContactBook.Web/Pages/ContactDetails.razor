@@ -1,0 +1,33 @@
+﻿@page "/contactdetails/{id}"
+@page "/contactdetails"
+@inherits ContactDetailsBase
+
+<div class=" row justify-content-center m-3">
+    <div class=" col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Contact.FirstName @Contact.LastName @Coordinates</h1>
+            </div>
+
+            <div class="card-body text-center">
+                 <img class="card-img-top" src="@Contact.PhotoPath"
+                     @onmousemove="@(e => Coordinates = $"X = {e.ClientX} Y = {e.ClientY}")"/>
+
+                 <h4>Contact ID : @Contact.ContactId</h4>
+                 <h4>Occupation : @Contact.Occupation</h4>
+                 <h4>Email : @Contact.Email</h4>
+                 <h4>PhoneNumber : @Contact.PhoneNumber</h4>
+                 <h4>Address : @Contact.Address</h4>
+                 <button class="btn btn-primary" @onclick="@Button_Click">@ButtonText</button>
+            </div>
+            <div class="card-footer text-center @CssClass">
+                <a href="/ " class="btn btn-primary">Back</a>
+                <a href="@($"editcontact/{Contact.ContactId}")"
+                 class="btn btn-primary">Edit</a>
+                <a href="#" class="btn btn-danger">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+

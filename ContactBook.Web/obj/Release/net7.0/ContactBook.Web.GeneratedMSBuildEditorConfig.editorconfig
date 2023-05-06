@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ContactBook.Web
+build_property.RootNamespace = ContactBook.Web
+build_property.ProjectDir = C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/ContactDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/ContactList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/CreateContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/DisplayContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUNvbnRhY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/EditContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdENvbnRhY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1l2dufm1b8
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y1w46gdrf5
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/OneDrive/Desktop/Library/ContactBook.Model/ContactBook.Web/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

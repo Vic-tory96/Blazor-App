@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ContactsComponent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ContactsComponent.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ContactsComponent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ContactsComponent.props",
+      "PackagePath": "build\\ContactsComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ContactsComponent.props",
+      "PackagePath": "buildMultiTargeting\\ContactsComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ContactsComponent.props",
+      "PackagePath": "buildTransitive\\ContactsComponent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

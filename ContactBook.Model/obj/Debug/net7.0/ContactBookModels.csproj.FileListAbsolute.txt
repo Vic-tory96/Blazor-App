@@ -1,0 +1,12 @@
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\bin\Debug\net7.0\ContactBookModels.deps.json
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\bin\Debug\net7.0\ContactBookModels.dll
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\bin\Debug\net7.0\ContactBookModels.pdb
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.AssemblyInfoInputs.cache
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.AssemblyInfo.cs
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.dll
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\refint\ContactBookModels.dll
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ContactBookModels.pdb
+C:\Users\mirac\OneDrive\Desktop\Library\ContactBook.Model\ContactBook.Model\obj\Debug\net7.0\ref\ContactBookModels.dll

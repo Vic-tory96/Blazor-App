@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "FHAxNMSQTEq3Sl/62111wL0etftGUVVs1vVpKvzCcB8=",
+  "Source": "ContactsComponent",
+  "BasePath": "_content/ContactsComponent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactsComponent\\wwwroot",
+      "Source": "ContactsComponent",
+      "ContentRoot": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\",
+      "BasePath": "_content/ContactsComponent",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ContactsComponent.styles.css",
+      "SourceId": "ContactsComponent",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ContactsComponent",
+      "RelativePath": "ContactsComponent.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ContactsComponent.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ContactsComponent.bundle.scp.css",
+      "SourceId": "ContactsComponent",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ContactsComponent",
+      "RelativePath": "ContactsComponent.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ContactsComponent.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\background.png",
+      "SourceId": "ContactsComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\",
+      "BasePath": "_content/ContactsComponent",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "ContactsComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mirac\\OneDrive\\Desktop\\Library\\ContactBook.Model\\Contact.Component\\wwwroot\\",
+      "BasePath": "_content/ContactsComponent",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
